@@ -1,5 +1,5 @@
 Description: >
-  Jean Eric TUYISHIMIRE / AWS INFRASTRUCTURE AS CODE
+  Jean Eric TUYISHIMIRE / AWS INFRASTRUCTURE AS CODE > Networking
 
 Parameters:
   EnvironmentName:
